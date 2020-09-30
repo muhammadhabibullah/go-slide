@@ -1,0 +1,35 @@
+Empty slide
+30 September 2020
+
+Muhammad Habibullah
+Backend Engineer, BIG-AGENT Ralali.com
+muhammadhabibullah.id@gmail.com
+
+* Slide title
+Content
+
+* Format text
+
+*Bold*
+_Italic_
+_Long_italic_
+
+- Bullet
+- Bullet 2
+
+1. Numbering
+2. Numbering 2
+
+    Block code
+    Second line
+
+* Image
+.image gopher.jpg
+
+* Run code
+.play hello.go
+
+* Link & Source
+.link https://medium.com/@drashti.ved_84172/level-up-your-go-presentations-b4d06fc495e5 "Level up your Go Presentations"
+.link https://pkg.go.dev/golang.org/x/tools/present Go Present
+.link https://golang.org/ Golang
